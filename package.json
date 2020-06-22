@@ -1,0 +1,22 @@
+{
+  "name": "babysfirstsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "copyfiles -f src/**/* dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtwhite13/babysfirstsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtwhite13/babysfirstsite/issues"
+  },
+  "homepage": "https://github.com/jtwhite13/babysfirstsite#readme",
+  "devDependencies": {
+    "copyfiles": "^2.3.0"
+  }
+}
